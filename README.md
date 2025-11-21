@@ -1,7 +1,7 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,26,30&height=150&text=wheemin1&animation=fadeIn&fontColor=F7F7F7&fontSize=45&fontAlignY=40)
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+wheemin1;TypeScript+Developer;Love%F0%9F%92%95+Building+Useful+Tools" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+wheemin1;Product+Manager+%26+Vibe+Coder;AI+%C3%97+Service+Planning;Building+Ideas+into+Reality" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
