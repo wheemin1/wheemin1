@@ -146,13 +146,6 @@
 
 ![svg](./profile-3d-contrib/profile-green-animate.svg)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wheemin1&show_icons=true&theme=buefy&hide_border=true" alt="wheemin1's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheemin1&layout=compact&theme=buefy&hide_border=true" /> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com?user=wheemin1" /> | <img src="https://github-profile-trophy.vercel.app/?username=wheemin1&column=3&margin-w=5&margin-h=5" />                              |
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wheemin1&theme=github-compact&days=40" alt="activity graph" width="95%"/>
-
 ---
 
 ## 📫 Connect with me
