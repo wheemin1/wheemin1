@@ -85,7 +85,6 @@
   <thead align="center">
     <tr>
       <td><b>🎁 Project</b></td>
-      <td><b>⭐ Stars</b></td>
       <td><b>📅 Period</b></td>
       <td><b>📝 Description</b></td>
       <td><b>🚀 Status</b></td>
@@ -94,13 +93,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/wheemin1/codebattle"><b>코드 배틀 (Codebattle)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/codebattle?style=flat-square&labelColor=343b41"/></td>
       <td>2024.09 - Present</td>
-      <td><b>AI 기반 실시간 코드 배틀 게임 플랫폼</b><br/>
-      • 서비스 기획, 개발, 운영 총괄<br/>
-      • 출시 3일만에 가입자 150명 돌파<br/>
-      • Elo 레이팅 시스템, 시즌제, 캐릭터 관리 등 게임 메커니즘 설계<br/>
-      • AI가 유저 코드를 분석/평가하는 배틀 로직 구현</td>
+      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 | 출시 3일만에 150명 가입<br/>Elo 레이팅 시스템, 시즌제 등 게임 메커니즘 설계 및 구현</td>
       <td><img src="https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/></td>
     </tr>
   </tbody>
