@@ -45,7 +45,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TEAM-ROMROM/RomRom-BE"><b>롬롬 (ROMROM)</b></a></td>
-      <td>Team of 5</td>
+      <td>Team of 7</td>
       <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
   <thead align="center">
     <tr>
       <td><b>🎁 Project</b></td>
-      <td><b>📅 Period</b></td>
+      <td><b>👥 Team</b></td>
       <td><b>📝 Description</b></td>
       <td><b>🚀 Status</b></td>
     </tr>
@@ -87,8 +87,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/wheemin1/codebattle"><b>코드 배틀 (Codebattle)</b></a></td>
-      <td>2024.09 - Present</td>
-      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 | 출시 3일만에 150명 가입<br/>Elo 레이팅 시스템, 시즌제 등 게임 메커니즘 설계 및 구현</td>
+      <td>Solo</td>
+      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 3일만에 150명 가입)</td>
       <td><img src="https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/></td>
     </tr>
   </tbody>
