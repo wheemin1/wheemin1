@@ -38,7 +38,6 @@
   <thead align="center">
     <tr>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
       <td><b>📅 Period</b></td>
       <td><b>📝 Description</b></td>
     </tr>
@@ -46,33 +45,28 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TEAM-ROMROM/RomRom-BE"><b>롬롬 (ROMROM)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
       <td>2024.09 - Present</td>
-      <td>AI 기반 차세대 가치 교환 플랫폼 | 서비스 기획 총괄/PM<br/>45개 스크린 MVP 기획, AI 가격 추천·실시간 채팅 구현</td>
+      <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/ottfriends"><b>OTT Friends</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/ottfriends?style=flat-square&labelColor=343b41"/></td>
       <td>Recent</td>
-      <td>OTT 플랫폼 구독 공유 서비스</td>
+      <td>OTT 구독 공유 매칭 서비스</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/MobileSiteCheck"><b>MoCheck</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/MobileSiteCheck?style=flat-square&labelColor=343b41"/></td>
       <td>2025.06 - 2025.08</td>
-      <td>모바일 친화도 체커 | PM·비개발자를 위한 웹 성능 분석 도구<br/>Google PageSpeed Insights API 활용, 직관적 대시보드 설계</td>
+      <td>PM·비개발자를 위한 웹 성능 분석 도구</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/securegps"><b>SecureNote</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/securegps?style=flat-square&labelColor=343b41"/></td>
       <td>2025.07 - 2025.09</td>
-      <td>GPS 메타데이터 제거 도구 | 개인정보 보호 웹앱<br/>Web Worker 기반 대용량 일괄 처리, ZIP 다운로드 기능</td>
+      <td>이미지 GPS 메타데이터 일괄 제거 웹앱</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/globaltime"><b>TimeSync</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/globaltime?style=flat-square&labelColor=343b41"/></td>
       <td>2025.05 - 2025.08</td>
-      <td>글로벌 팀을 위한 시차 변환 미팅 조율기<br/>다국적 분산팀의 최적 회의 시간 자동 추천 시스템</td>
+      <td>글로벌 팀을 위한 시차 변환 미팅 조율기</td>
     </tr>
   </tbody>
 </table>
