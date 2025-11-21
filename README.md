@@ -39,40 +39,40 @@
     <tr>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Language</b></td>
+      <td><b>📅 Period</b></td>
       <td><b>📝 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/TEAM-ROMROM/RomRom-BE"><b>롬롬 (ROMROM)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TEAM-ROMROM/RomRom-BE?style=flat-square&labelColor=343b41"/></td>
+      <td>2024.09 - Present</td>
+      <td>AI 기반 차세대 가치 교환 플랫폼 | 서비스 기획 총괄/PM<br/>45개 스크린 MVP 기획, AI 가격 추천·실시간 채팅 구현</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/wheemin1/ottfriends"><b>OTT Friends</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/ottfriends?style=flat-square&labelColor=343b41"/></td>
-      <td>TypeScript</td>
-      <td>OTT 플랫폼 공유 서비스</td>
+      <td>Recent</td>
+      <td>OTT 플랫폼 구독 공유 서비스</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/PORTFOLIO"><b>Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/PORTFOLIO?style=flat-square&labelColor=343b41"/></td>
-      <td>TypeScript</td>
-      <td>개인 포트폴리오 웹사이트</td>
+      <td><a href="https://github.com/wheemin1/MobileSiteCheck"><b>MoCheck</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/MobileSiteCheck?style=flat-square&labelColor=343b41"/></td>
+      <td>2025.06 - 2025.08</td>
+      <td>모바일 친화도 체커 | PM·비개발자를 위한 웹 성능 분석 도구<br/>Google PageSpeed Insights API 활용, 직관적 대시보드 설계</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/matrix"><b>Matrix</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/matrix?style=flat-square&labelColor=343b41"/></td>
-      <td>TypeScript</td>
-      <td>매트릭스 효과 애플리케이션</td>
+      <td><a href="https://github.com/wheemin1/securegps"><b>SecureNote</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/securegps?style=flat-square&labelColor=343b41"/></td>
+      <td>2025.07 - 2025.09</td>
+      <td>GPS 메타데이터 제거 도구 | 개인정보 보호 웹앱<br/>Web Worker 기반 대용량 일괄 처리, ZIP 다운로드 기능</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/LOTTO"><b>LOTTO</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/LOTTO?style=flat-square&labelColor=343b41"/></td>
-      <td>TypeScript</td>
-      <td>로또 번호 생성기</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/wheemin1/TitanMBTI"><b>Titan MBTI</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/TitanMBTI?style=flat-square&labelColor=343b41"/></td>
-      <td>TypeScript</td>
-      <td>진격의 거인 MBTI 테스트</td>
+      <td><a href="https://github.com/wheemin1/globaltime"><b>TimeSync</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/globaltime?style=flat-square&labelColor=343b41"/></td>
+      <td>2025.05 - 2025.08</td>
+      <td>글로벌 팀을 위한 시차 변환 미팅 조율기<br/>다국적 분산팀의 최적 회의 시간 자동 추천 시스템</td>
     </tr>
   </tbody>
 </table>
