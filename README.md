@@ -102,39 +102,39 @@
   <thead align="center">
     <tr>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
+      <td><b>👥 Team</b></td>
       <td><b>📚 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/wheemin1/shortcuts"><b>Shortcuts</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/shortcuts?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>단축키 모음 도구</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/RuneConverter"><b>Rune Converter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/RuneConverter?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>룬 문자 변환기</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/globaltime"><b>Global Time</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/globaltime?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>전 세계 시간대 확인 도구</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/MobileSiteCheck"><b>Mobile Site Check</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/MobileSiteCheck?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>모바일 사이트 체크 도구</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/SEO-tool"><b>SEO Tool</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/SEO-tool?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>SEO 분석 도구</td>
     </tr>
     <tr>
       <td><a href="https://github.com/wheemin1/Developer-Tools"><b>Developer Tools</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wheemin1/Developer-Tools?style=flat-square&labelColor=343b41"/></td>
+      <td>Solo</td>
       <td>개발자를 위한 유틸리티 모음</td>
     </tr>
   </tbody>
