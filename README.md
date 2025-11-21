@@ -44,7 +44,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TEAM-ROMROM/RomRom-BE"><b>롬롬 (ROMROM)</b></a></td>
+      <td><a href="https://github.com/TEAM-ROMROM"><b>롬롬 (ROMROM)</b></a></td>
       <td>Team of 7</td>
       <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
