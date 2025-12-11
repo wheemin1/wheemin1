@@ -12,6 +12,16 @@
 
 
 ---
+### 👋 About Me
+
+**기획자지만, 상상이 현실이 될 때까지 기다리지 않습니다.**
+
+* 🎯 **Main:** 비즈니스 모델 설계 & 서비스 기획 (PM/PO)
+* 🛠️ **Skill:** React/Supabase를 활용한 **빠른 MVP 구현 능력**
+* 💬 **Motto:** "이거 구현 되나요?"라고 묻는 대신, "**프로토타입 만들어 왔습니다**"라고 말합니다.
+
+
+---
 
 ## 🧰 Tech Stack
 
@@ -31,41 +41,46 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>👥 Team</b></td>
-      <td><b>📝 Description</b></td>
+      <td width="20%"><b>🎁 Project</b></td>
+      <td width="25%"><b>👑 Role</b></td>
+      <td width="15%"><b>👥 Team</b></td>
+      <td width="40%"><b>📝 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TEAM-ROMROM"><b>롬롬 (ROMROM)</b></a></td>
-      <td>Team of 7</td>
+      <td align="center"><a href="https://github.com/TEAM-ROMROM"><b>롬롬 (ROMROM)</b></a></td>
+      <td align="center"><b>PM & Planning Lead</b><br/>(기획·PM)</td>
+      <td align="center">Team of 7</td>
       <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/ottfriends"><b>OTT Friends</b></a></td>
-      <td>Solo</td>
-      <td>OTT 구독 공유 매칭 서비스</td>
+      <td align="center"><a href="https://github.com/wheemin1/ottfriends"><b>OTT Friends</b></a></td>
+      <td align="center"><b>Solo</td>
+      <td align="center">Solo</td>
+      <td>OTT 추천 챗봇 서비스</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/MobileSiteCheck"><b>MoCheck</b></a></td>
-      <td>Solo</td>
+      <td align="center"><a href="https://github.com/wheemin1/MobileSiteCheck"><b>MoCheck</b></a></td>
+      <td align="center"><b>Solo</td>
+      <td align="center">Solo</td>
       <td>PM·비개발자를 위한 웹 성능 분석 도구</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/securegps"><b>SecureNote</b></a></td>
-      <td>Solo</td>
+      <td align="center"><a href="https://github.com/wheemin1/securegps"><b>SecureNote</b></a></td>
+      <td align="center"><b>Solo</td>
+      <td align="center">Solo</td>
       <td>이미지 GPS 메타데이터 일괄 제거 웹앱</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/globaltime"><b>TimeSync</b></a></td>
-      <td>Solo</td>
+      <td align="center"><a href="https://github.com/wheemin1/globaltime"><b>TimeSync</b></a></td>
+      <td align="center"><b>Solo</td>
+      <td align="center">Solo</td>
       <td>글로벌 팀을 위한 시차 변환 미팅 조율기</td>
     </tr>
   </tbody>
@@ -89,7 +104,7 @@
       <td><a href="https://github.com/wheemin1/codebt"><b>코드 배틀 (Codebattle)</b></a></td>
       <td>Solo</td>
       <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일만에 330명 가입)</td>
-      <td><img src="https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Status-Archived-inactive?style=for-the-badge&logo=archive&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
