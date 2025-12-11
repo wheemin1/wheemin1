@@ -86,7 +86,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/wheemin1/codebattle"><b>코드 배틀 (Codebattle)</b></a></td>
+      <td><a href="https://github.com/wheemin1/codebt"><b>코드 배틀 (Codebattle)</b></a></td>
       <td>Solo</td>
       <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일만에 330명 가입)</td>
       <td><img src="https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/></td>
