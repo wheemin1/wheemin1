@@ -22,139 +22,152 @@
 
 
 ---
+## 🧰 Tech Stack (AI-Native Builder)
 
-## 🧰 Tech Stack
+> **"직접 코딩하기보다, AI 에이전트와 협업하여 비즈니스 가치를 가장 빠르게 '실제 서비스'로 구현합니다."**
 
----
+### 🤖 AI-Driven Development (The Agents I Lead)
+![Claude Sonnet](https://img.shields.io/badge/Claude%203.5-613332?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-131313?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F00?style=for-the-badge&logo=lovable&logoColor=white)
+![Replit Agent](https://img.shields.io/badge/Replit%20Agent-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Readdy](https://img.shields.io/badge/Readdy-6366F1?style=for-the-badge&logo=readdy&logoColor=white)
+![Base44](https://img.shields.io/badge/Base44-black?style=for-the-badge)
 
-### 🧑‍💻 Frontend & Development
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📊 Data & Growth Strategy (Analytics)
+![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Naver Search Advisor](https://img.shields.io/badge/Naver%20Advisor-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
-### 🛠️ Tools & Platform
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🏗️ Infrastructure & DB (Ship & Manage)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![DNS & Domain](https://img.shields.io/badge/DNS%20&%20Domains-FF6600?style=for-the-badge&logo=porkbun&logoColor=white)
+
+### 📈 Design & Product Management
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ---
+
 ## 🚀 Featured Projects
 
 <table>
   <thead align="center">
     <tr>
       <td width="20%"><b>🎁 Project</b></td>
-      <td width="25%"><b>👑 Role</b></td>
-      <td width="15%"><b>👥 Team</b></td>
+      <td width="25%"><b>👑 Role / Links</b></td>
+      <td width="15%"><b>📊 Stats</b></td>
       <td width="40%"><b>📝 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/TEAM-ROMROM"><b>롬롬 (ROMROM)</b></a></td>
-      <td align="center"><b>PM & Planning Lead</b><br/>(기획·PM)</td>
-      <td align="center">Team of 7</td>
+      <td align="center"><b>롬롬 (ROMROM)</b></td>
+      <td align="center">
+        <b>PM & Planning Lead</b><br/>
+        <a href="https://github.com/TEAM-ROMROM"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a><br/>
+        <a href="링크를_넣어주세요"><img src="https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white"/></a>
+        <a href="링크를_넣어주세요"><img src="https://img.shields.io/badge/App%20Store-007AFF?style=flat-square&logo=apple&logoColor=white"/></a>
+      </td>
+      <td align="center">Team of 7<br/><b>Live Now</b></td>
       <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/wheemin1/ottfriends"><b>OTT Friends</b></a></td>
-      <td align="center"><b>Solo</td>
-      <td align="center">Solo</td>
-      <td>OTT 추천 챗봇 서비스</td>
+      <td align="center"><b>모임티아이 (MoimTI)</b></td>
+      <td align="center">
+        <b>Solo Build</b><br/>
+        <a href="https://moimti.site/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      </td>
+      <td align="center"><b>266+ User</b></td>
+      <td>그룹 MBTI 궁합 분석 서비스. <b>별도 홍보 없이 일주일 만에 266명 참여</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/wheemin1/MobileSiteCheck"><b>MoCheck</b></a></td>
-      <td align="center"><b>Solo</td>
-      <td align="center">Solo</td>
-      <td>PM·비개발자를 위한 웹 성능 분석 도구</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/wheemin1/securegps"><b>SecureNote</b></a></td>
-      <td align="center"><b>Solo</td>
-      <td align="center">Solo</td>
-      <td>이미지 GPS 메타데이터 일괄 제거 웹앱</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/wheemin1/globaltime"><b>TimeSync</b></a></td>
-      <td align="center"><b>Solo</td>
-      <td align="center">Solo</td>
-      <td>글로벌 팀을 위한 시차 변환 미팅 조율기</td>
+      <td align="center"><b>코드 배틀 (Codebattle)</b></td>
+      <td align="center">
+        <b>Solo Build</b><br/>
+        <a href="https://github.com/wheemin1/codebt"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a><br/>
+        <img src="https://img.shields.io/badge/Status-Archived-inactive?style=flat-square&logo=archive&logoColor=white"/>
+      </td>
+      <td align="center"><b>330+ User</b><br/>(in 7 Days)</td>
+      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일 만에 330명 가입 기록 / 현재 아카이빙)</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🎮 AI Game Platform
+## 🛠️ Utility Tools (PM & Expert Tools)
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>👥 Team</b></td>
-      <td><b>📝 Description</b></td>
-      <td><b>🚀 Status</b></td>
+      <td width="25%"><b>🎁 Projects</b></td>
+      <td width="25%"><b>🔗 Links</b></td>
+      <td width="50%"><b>📚 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/wheemin1/codebt"><b>코드 배틀 (Codebattle)</b></a></td>
-      <td>Solo</td>
-      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일만에 330명 가입)</td>
-      <td><img src="https://img.shields.io/badge/Status-Archived-inactive?style=for-the-badge&logo=archive&logoColor=white"/></td>
+      <td align="center"><b>MoCheck</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/MobileSiteCheck"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>PM·비개발자를 위한 웹 성능 분석 및 모바일 최적화 체크 도구</td>
+    </tr>
+    <tr>
+      <td align="center"><b>SEO Tool</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/SEO-tool"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>웹 서비스 노출 최적화를 위한 검색 엔진(네이버/구글) 분석 도구</td>
+    </tr>
+    <tr>
+      <td align="center"><b>TimeSync</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/globaltime"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>글로벌 협업 팀을 위한 시차 변환 및 미팅 조율 유틸리티</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🛠️ Utility Tools
+## 🧪 Experiments & Personal Lab
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>👥 Team</b></td>
-      <td><b>📚 Description</b></td>
+      <td width="25%"><b>🎁 Projects</b></td>
+      <td width="25%"><b>🔗 Links / Impact</b></td>
+      <td width="50%"><b>📚 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/wheemin1/shortcuts"><b>Shortcuts</b></a></td>
-      <td>Solo</td>
-      <td>단축키 모음 도구</td>
+      <td align="center"><b>룬 컨버터</b></td>
+      <td align="center"><b>20k+ View</b></td>
+      <td>룬 문자 번역 및 변환기. <b>총 노출수 20,000회 이상 기록</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/RuneConverter"><b>Rune Converter</b></a></td>
-      <td>Solo</td>
-      <td>룬 문자 변환기</td>
+      <td align="center"><b>SecureNote</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/securegps"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>개인정보 보호를 위한 이미지 GPS 메타데이터 일괄 제거 웹앱</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/globaltime"><b>Global Time</b></a></td>
-      <td>Solo</td>
-      <td>전 세계 시간대 확인 도구</td>
+      <td align="center"><b>Shortcuts</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/shortcuts"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>생산성 향상을 위한 단축키 및 워크플로우 모음 도구</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/wheemin1/MobileSiteCheck"><b>Mobile Site Check</b></a></td>
-      <td>Solo</td>
-      <td>모바일 사이트 체크 도구</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/wheemin1/SEO-tool"><b>SEO Tool</b></a></td>
-      <td>Solo</td>
-      <td>SEO 분석 도구</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/wheemin1/Developer-Tools"><b>Developer Tools</b></a></td>
-      <td>Solo</td>
-      <td>개발자를 위한 유틸리티 모음</td>
+      <td align="center"><b>Dev-Tools</b></td>
+      <td align="center"><a href="https://github.com/wheemin1/Developer-Tools"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>빌더와 개발자를 위한 잡다한 유틸리티 모음 저장소</td>
     </tr>
   </tbody>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
