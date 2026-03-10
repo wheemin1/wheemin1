@@ -90,6 +90,15 @@
       <td>그룹 MBTI 궁합 분석 서비스. <b>별도 홍보 없이 일주일 만에 266명 참여</b></td>
     </tr>
     <tr>
+      <td align="center"><b>룬 컨버터 (Rune Converter)</b></td>
+      <td align="center">
+        <b>Solo Build</b><br/>
+        <a href="https://github.com/wheemin1/RuneConverter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+      <td align="center"><b>20k+ View</b><br/>(SEO Success)</td>
+      <td>룬 문자 번역 및 변환기. <b>누적 노출수 20,000회 이상 기록</b></td>
+    </tr>
+    <tr>
       <td align="center"><b>코드 배틀 (Codebattle)</b></td>
       <td align="center">
         <b>Solo Build</b><br/>
@@ -97,7 +106,7 @@
         <img src="https://img.shields.io/badge/Status-Archived-inactive?style=flat-square&logo=archive&logoColor=white"/>
       </td>
       <td align="center"><b>330+ User</b><br/>(in 7 Days)</td>
-      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일 만에 330명 가입 기록 / 현재 아카이빙)</td>
+      <td>AI 기반 실시간 코드 배틀 게임 플랫폼 (출시 7일 만에 330명 가입 기록)</td>
     </tr>
   </tbody>
 </table>
