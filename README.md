@@ -64,8 +64,8 @@
     <tr>
       <td width="20%"><b>🎁 Project</b></td>
       <td width="25%"><b>👑 Role / Links</b></td>
-      <td width="15%"><b>📊 Stats</b></td>
-      <td width="40%"><b>📝 Description</b></td>
+      <td width="20%"><b>📊 Stats</b></td>
+      <td width="35%"><b>📝 Description</b></td>
     </tr>
   </thead>
   <tbody>
