@@ -126,18 +126,27 @@
   <tbody>
     <tr>
       <td align="center"><b>MoCheck</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/MobileSiteCheck"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>PM·비개발자를 위한 웹 성능 분석 및 모바일 최적화 체크 도구</td>
+      <td align="center">
+        <a href="https://mocheck.netlify.app"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+        <a href="https://github.com/wheemin1/MobileSiteCheck"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+      <td>Google PageSpeed & Lighthouse 기반 <b>PM용 웹 성능/모바일 최적화 분석 도구</b></td>
     </tr>
     <tr>
-      <td align="center"><b>SEO Tool</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/SEO-tool"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>웹 서비스 노출 최적화를 위한 검색 엔진(네이버/구글) 분석 도구</td>
+      <td align="center"><b>SecureGPS</b></td>
+      <td align="center">
+        <a href="https://securegps.netlify.app/ko"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+        <a href="https://github.com/wheemin1/securegps"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+      <td>개인정보 보호를 위한 <b>100% 온디바이스 GPS 및 메타데이터 일괄 제거 툴</b></td>
     </tr>
     <tr>
       <td align="center"><b>TimeSync</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/globaltime"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>글로벌 협업 팀을 위한 시차 변환 및 미팅 조율 유틸리티</td>
+      <td align="center">
+        <a href="https://globalmeetingtime.netlify.app/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+        <a href="https://github.com/wheemin1/globaltime"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+      <td>글로벌 협업 팀을 위한 <b>시차 변환 및 미팅 예약 플래너</b></td>
     </tr>
   </tbody>
 </table>
@@ -150,30 +159,38 @@
   <thead align="center">
     <tr>
       <td width="25%"><b>🎁 Projects</b></td>
-      <td width="25%"><b>🔗 Links / Impact</b></td>
+      <td width="25%"><b>🔗 Links</b></td>
       <td width="50%"><b>📚 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>룬 컨버터</b></td>
-      <td align="center"><b>20k+ View</b></td>
-      <td>룬 문자 번역 및 변환기. <b>총 노출수 20,000회 이상 기록</b></td>
+      <td align="center"><b>MinMim (민밈)</b></td>
+      <td align="center">
+        <a href="https://minmim.netlify.app/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      </td>
+      <td>건설환경공학과 전공 암기를 돕기 위한 <b>AI 기반 전공 퀴즈 플랫폼</b> (학우들 사이 인기 폭발)</td>
     </tr>
     <tr>
-      <td align="center"><b>SecureNote</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/securegps"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>개인정보 보호를 위한 이미지 GPS 메타데이터 일괄 제거 웹앱</td>
+      <td align="center"><b>상형문자 번역기</b></td>
+      <td align="center">
+        <a href="https://egyptiantranslator.netlify.app/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      </td>
+      <td>AI 에이전트로 빌드한 <b>이집트 상형문자 번역 및 변환 실험기</b></td>
     </tr>
     <tr>
-      <td align="center"><b>Shortcuts</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/shortcuts"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>생산성 향상을 위한 단축키 및 워크플로우 모음 도구</td>
+      <td align="center"><b>Lotto Simulator</b></td>
+      <td align="center">
+        <a href="https://lotto33.netlify.app/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+      </td>
+      <td>확률 기반의 <b>로또 번호 생성 및 당첨 시뮬레이터</b></td>
     </tr>
     <tr>
       <td align="center"><b>Dev-Tools</b></td>
-      <td align="center"><a href="https://github.com/wheemin1/Developer-Tools"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-      <td>빌더와 개발자를 위한 잡다한 유틸리티 모음 저장소</td>
+      <td align="center">
+        <a href="https://github.com/wheemin1/Developer-Tools"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </td>
+      <td>생산성 향상을 위한 단축키 및 빌더용 잡다한 유틸리티 모음 저장소</td>
     </tr>
   </tbody>
 </table>
