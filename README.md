@@ -169,7 +169,7 @@
       <td align="center">
         <a href="https://minmim.netlify.app/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       </td>
-      <td>건설환경공학과 전공 암기를 돕기 위한 <b>AI 기반 전공 퀴즈 플랫폼</b> (학우들 사이 인기 폭발)</td>
+      <td>건설환경공학과 전공 암기를 돕기 위한 <b>AI 기반 전공 퀴즈 플랫폼</b></td>
     </tr>
     <tr>
       <td align="center"><b>상형문자 번역기</b></td>
