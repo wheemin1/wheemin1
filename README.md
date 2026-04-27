@@ -14,10 +14,10 @@
 ---
 ### 👋 About Me
 
-**기획자지만, 상상이 현실이 될 때까지 기다리지 않습니다.**
+**기획자**
 
 * 🎯 **Main:** 비즈니스 모델 설계 & 서비스 기획 (PM/PO)
-* 🛠️ **Skill:** React/Supabase를 활용한 **빠른 MVP 구현 능력**
+* 🛠️ **Skill:** 바이브를 활용한 **빠른 MVP 구현 능력**
 * 💬 **Motto:** "이거 구현 되나요?"라고 묻는 대신, "**프로토타입 만들어 왔습니다**"라고 말합니다.
 
 
@@ -87,7 +87,7 @@
         <a href="https://moimti.site/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       </td>
       <td align="center"><b>266+ User</b></td>
-      <td>그룹 MBTI 궁합 분석 서비스. <b>현재까지 서비스 사용자 286명</b></td>
+      <td>그룹 MBTI 궁합 분석 서비스. <b>현재까지 서비스 사용자 559명</b></td>
     </tr>
     <tr>
       <td align="center"><b>룬 컨버터 (Rune Converter)</b></td>
