@@ -77,7 +77,7 @@
         <a href="링크를_넣어주세요"><img src="https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white"/></a>
         <a href="링크를_넣어주세요"><img src="https://img.shields.io/badge/App%20Store-007AFF?style=flat-square&logo=apple&logoColor=white"/></a>
       </td>
-      <td align="center">Team of 7<br/><b>Live Now</b></td>
+      <td align="center">Team of 7<br/><b></b></td>
       <td>AI 기반 차세대 가치 교환 플랫폼 (물건·재능·시간 거래)</td>
     </tr>
     <tr>
