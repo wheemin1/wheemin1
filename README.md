@@ -87,7 +87,7 @@
         <a href="https://moimti.site/"><img src="https://img.shields.io/badge/Web%20Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
       </td>
       <td align="center"><b>266+ User</b></td>
-      <td>그룹 MBTI 궁합 분석 서비스. <b>현재까지 서비스 사용자 559명</b></td>
+      <td>그룹 MBTI 궁합 분석 서비스. <b>현재까지 서비스 사용자 1151명</b></td>
     </tr>
     <tr>
       <td align="center"><b>룬 컨버터 (Rune Converter)</b></td>
